@@ -1,3 +1,3 @@
 eimport sys
 import time
-print("Hello katelyn")
+print("Good day & Hello katelyn")
